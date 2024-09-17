@@ -1,4 +1,4 @@
-//Here MarsRover is turned on and of using a remote which is implemented using Command Pattern
+//Here MarsRover is turned on and off using a remote which is implemented using Command Pattern
 // Image is attached with it please refer that to see the implemented logic
 interface ICommand {
     public void excute();
